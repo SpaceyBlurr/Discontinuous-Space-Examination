@@ -1,6 +1,3 @@
-# Spatial Data Structures
-
-python
 class QuadTree:
     def __init__(self, boundary, max_points=4):
         self.boundary = boundary
@@ -20,5 +17,5 @@ class QuadTree:
 # with discontinuous distributions
 
 
-# This data structure could be used to represent and analyze discontinuous spatial data, such as clusters of points or objects in 2D space.
+
 
